@@ -43,11 +43,12 @@ Returns:
 ]
 
 🧪 Run the Notebook
+
 You can run this project in Google Colab or any Jupyter environment. Make sure to:
 
-Upload the dataset files (BX-Books.csv and BX-Book-Ratings.csv)
+- Upload the dataset files (BX-Books.csv and BX-Book-Ratings.csv)
 
-Run all cells in order.
+- Run all cells in order.
 
 ✅ Requirements
 Python 3.x
